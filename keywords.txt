@@ -1,0 +1,41 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Velleman_K1200	KEYWORD1
+watchstates KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setState	KEYWORD2
+executeState	KEYWORD2
+getTime	KEYWORD2
+setTime	KEYWORD2
+showArray	KEYWORD2
+showClock	KEYWORD2
+clearArrays	KEYWORD2
+notShowingTime KEYWORD2
+configureTime	KEYWORD2
+sleep	KEYWORD2
+isButtonPressed KEYWORD2
+setHand	KEYWORD2
+setAllLeds	KEYWORD2
+setBeginAnimation	KEYWORD2
+setEndAnimation	KEYWORD2
+addGame	KEYWORD2
+executeGame
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+STEP	LITERAL1
+LEDCOUNT	LITERAL1 
+LONGPRESS	LITERAL1 
+CLOCKTIME	LITERAL1 
+MAXANIMATIONS	LITERAL1 
