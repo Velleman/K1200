@@ -6,6 +6,9 @@
     20-03-2017
 
     Written in Arduino 1.8.1
+
+	Board: LilyPad Arduino 
+	Processor: ATmega328
 */
 //------------------------------------------------------------------
 #define EI_ARDUINO_INTERRUPTED_PIN
