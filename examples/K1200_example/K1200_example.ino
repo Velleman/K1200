@@ -164,7 +164,7 @@ void game() {
     if (endgame == true) {
       break;
     }
-    state = showGameAnim(randnumber,true);
+    state = showGameAnim(randnumber,false);
     switch(state)
     {
       case none:
