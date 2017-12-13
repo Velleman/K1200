@@ -3,7 +3,7 @@
 #######################################
 
 Velleman_K1200	KEYWORD1
-watchstates KEYWORD1
+watchstates	KEYWORD1
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
@@ -19,7 +19,7 @@ clearArrays	KEYWORD2
 notShowingTime KEYWORD2
 configureTime	KEYWORD2
 sleep	KEYWORD2
-isButtonPressed KEYWORD2
+isButtonPressed	KEYWORD2
 setHand	KEYWORD2
 setAllLeds	KEYWORD2
 setBeginAnimation	KEYWORD2
