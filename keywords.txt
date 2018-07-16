@@ -16,7 +16,7 @@ setTime	KEYWORD2
 showArray	KEYWORD2
 showClock	KEYWORD2
 clearArrays	KEYWORD2
-notShowingTime KEYWORD2
+notShowingTime	KEYWORD2
 configureTime	KEYWORD2
 sleep	KEYWORD2
 isButtonPressed	KEYWORD2
