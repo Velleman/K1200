@@ -25,7 +25,6 @@ setAllLeds	KEYWORD2
 setBeginAnimation	KEYWORD2
 setEndAnimation	KEYWORD2
 addGame	KEYWORD2
-executeGame
 
 #######################################
 # Instances (KEYWORD2)
